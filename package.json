@@ -1,0 +1,21 @@
+{
+  "name": "rate-limit",
+  "version": "0.0.1",
+  "description": "express rate-limiting middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express",
+    "rate-limit",
+    "middleware"
+  ],
+  "author": "lyhper <lyhper@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "mocha": "^5.0.0",
+    "supertest": "^3.0.0"
+  }
+}
