@@ -1,8 +1,13 @@
 {
-  "name": "rate-limit",
-  "version": "0.0.1",
+  "name": "node-rate-limit",
+  "version": "0.0.2",
   "description": "express rate-limiting middleware",
   "main": "index.js",
+  "homepage": "https://github.com/lyhper/node-rate-limit",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/lyhper/node-rate-limit.git"
+  },
   "scripts": {
     "test": "mocha"
   },
