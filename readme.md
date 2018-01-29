@@ -4,7 +4,7 @@
 
 ## About
 
-  It uses built-in memory cache by default, and you can use your own redis cache. No matter if you're behind a reverse proxy (Nginx, Apache...), you can get the same rate-limiting result.
+  It uses built-in memory cache by default, and you can use your own redis cache. No matter if you're behind a reverse proxy (Nginx, Apache...), you can get the same rate-limiting result.
   
 
 ## Install
